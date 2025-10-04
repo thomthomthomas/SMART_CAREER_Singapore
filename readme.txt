@@ -1,7 +1,4 @@
-# Create a combined README as a single .txt file
-content = """Smart Career SG — README
 
-Overview
 Two-part app for career guidance:
 - Backend: Flask API with chat endpoints, role data, and optional PDF generation.
 - Frontend: React app (Vite-style) that calls the backend.
@@ -97,10 +94,3 @@ cd frontend
 npm install
 npm run dev
 
-License
-Add your preferred license here.
-"""
-path = "/mnt/data/README.txt"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(content)
-path
