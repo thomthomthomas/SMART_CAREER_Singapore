@@ -1,0 +1,16 @@
+{
+  "api_keys": {
+    "gemini_api_key": "AIzaSyCdJ51Dpo-_wK2MrgVRh8cSTFXqVReOYBI",
+    "youtube_api_key": "AIzaSyDsEvp7AYsYwnxaFzTi7gWc3xLaj9VZPn4",
+    "supadata_api_key": "sd_6bb5776e46bf3888dec536b8938e4628"
+  },
+  "settings": {
+    "max_videos_per_skill": 2,
+    "request_delay_seconds": 2,
+    "max_transcript_length": 3000,
+    "audio_language": "en"
+  },
+  "directories": {
+    "json_output": "./json_outputs"
+  }
+}

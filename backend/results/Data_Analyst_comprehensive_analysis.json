@@ -1,0 +1,231 @@
+{
+  "analysis_metadata": {
+    "analysis_date": "2025-09-06T12:10:21.979975",
+    "skills_analyzed": [
+      "Data Analyst"
+    ],
+    "analysis_version": "1.0",
+    "data_sources": [
+      "Coursera",
+      "edX",
+      "Udemy",
+      "YouTube"
+    ]
+  },
+  "course_recommendations": [
+    {
+      "title": "Data Analyst Fundamentals",
+      "provider": "Coursera",
+      "rating": 4.8,
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "price": "Free",
+      "url": "https://coursera.org/learn/data-analysis-fundamentals",
+      "skills_covered": [
+        "Python",
+        "Statistics",
+        "Data Visualization"
+      ],
+      "enrollment_count": 50000
+    },
+    {
+      "title": "Advanced Data Analyst Techniques",
+      "provider": "edX",
+      "rating": 4.6,
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "price": "$99",
+      "url": "https://edx.org/course/advanced-data-analysis",
+      "skills_covered": [
+        "Machine Learning",
+        "SQL",
+        "R"
+      ],
+      "enrollment_count": 25000
+    },
+    {
+      "title": "Data Analyst Bootcamp",
+      "provider": "Udemy",
+      "rating": 4.5,
+      "duration": "40 hours",
+      "level": "All Levels",
+      "price": "$89.99",
+      "url": "https://udemy.com/course/data-analyst-bootcamp",
+      "skills_covered": [
+        "Excel",
+        "Tableau",
+        "Power BI"
+      ],
+      "enrollment_count": 75000
+    }
+  ],
+  "youtube_insights": {
+    "top_channels": [
+      {
+        "channel_name": "Data Analyst Academy",
+        "subscriber_count": 500000,
+        "video_count": 150,
+        "avg_views_per_video": 45000,
+        "content_focus": [
+          "Tutorials",
+          "Case Studies",
+          "Industry Insights"
+        ]
+      },
+      {
+        "channel_name": "Data Science Central",
+        "subscriber_count": 300000,
+        "video_count": 200,
+        "avg_views_per_video": 30000,
+        "content_focus": [
+          "Tools",
+          "Techniques",
+          "Career Advice"
+        ]
+      }
+    ],
+    "trending_topics": [
+      "Python for Data Analysis",
+      "SQL Fundamentals",
+      "Data Visualization Best Practices",
+      "Machine Learning Basics",
+      "Career Transition Tips"
+    ],
+    "learning_paths": [
+      {
+        "path_name": "Beginner to Professional",
+        "estimated_duration": "6 months",
+        "video_count": 45,
+        "topics": [
+          "Basics",
+          "Tools",
+          "Projects",
+          "Portfolio"
+        ]
+      }
+    ]
+  },
+  "job_market_analysis": {
+    "demand_level": "High",
+    "growth_rate": "22% (Much faster than average)",
+    "salary_range": {
+      "entry_level": "$45,000 - $65,000",
+      "mid_level": "$65,000 - $95,000",
+      "senior_level": "$95,000 - $130,000"
+    },
+    "top_hiring_companies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Meta",
+      "Apple"
+    ],
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Statistics",
+      "Data Visualization",
+      "Machine Learning",
+      "Critical Thinking",
+      "Communication"
+    ],
+    "job_locations": [
+      {
+        "city": "San Francisco",
+        "avg_salary": "$120,000",
+        "job_count": 1500
+      },
+      {
+        "city": "New York",
+        "avg_salary": "$110,000",
+        "job_count": 1200
+      },
+      {
+        "city": "Seattle",
+        "avg_salary": "$105,000",
+        "job_count": 800
+      },
+      {
+        "city": "Austin",
+        "avg_salary": "$95,000",
+        "job_count": 600
+      }
+    ]
+  },
+  "skill_development_roadmap": {
+    "phase_1": {
+      "title": "Foundation Building (Months 1-2)",
+      "skills": [
+        "Excel",
+        "Basic Statistics",
+        "SQL Basics"
+      ],
+      "resources": [
+        "Online courses",
+        "Practice datasets",
+        "Tutorials"
+      ]
+    },
+    "phase_2": {
+      "title": "Technical Skills (Months 3-4)",
+      "skills": [
+        "Python",
+        "Data Visualization",
+        "Advanced SQL"
+      ],
+      "resources": [
+        "Coding bootcamps",
+        "Projects",
+        "Certifications"
+      ]
+    },
+    "phase_3": {
+      "title": "Advanced Analytics (Months 5-6)",
+      "skills": [
+        "Machine Learning",
+        "Statistical Analysis",
+        "Business Intelligence"
+      ],
+      "resources": [
+        "Specialized courses",
+        "Real projects",
+        "Industry mentorship"
+      ]
+    }
+  },
+  "recommendations": {
+    "immediate_actions": [
+      "Start with Python fundamentals course",
+      "Practice SQL on real datasets",
+      "Build a portfolio on GitHub"
+    ],
+    "long_term_goals": [
+      "Complete a data analysis certification",
+      "Contribute to open-source projects",
+      "Network with industry professionals"
+    ],
+    "tools_to_learn": [
+      {
+        "tool": "Python",
+        "priority": "High",
+        "time_investment": "3-4 weeks"
+      },
+      {
+        "tool": "SQL",
+        "priority": "High",
+        "time_investment": "2-3 weeks"
+      },
+      {
+        "tool": "Tableau",
+        "priority": "Medium",
+        "time_investment": "2 weeks"
+      },
+      {
+        "tool": "Excel",
+        "priority": "Medium",
+        "time_investment": "1 week"
+      }
+    ]
+  }
+}

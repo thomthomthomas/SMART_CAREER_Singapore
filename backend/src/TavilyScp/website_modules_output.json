@@ -1,0 +1,52 @@
+{
+  "websites": [
+    {
+      "website_name": "Coursera",
+      "website_url": "https://www.coursera.org",
+      "topic": "Teacher",
+      "modules": [],
+      "courses": [
+        {
+          "title": "Best Teaching Courses & Certificates [2025] | Coursera Learn Online",
+          "url": "https://www.coursera.org/courses?query=teaching"
+        },
+        {
+          "title": "Best Teacher Training Courses & Certificates [2025] - Coursera",
+          "url": "https://www.coursera.org/courses?query=teacher%20training"
+        }
+      ]
+    },
+    {
+      "website_name": "Edx",
+      "website_url": "https://www.edx.org",
+      "topic": "Teacher",
+      "modules": [],
+      "courses": [
+        {
+          "title": "Best Online Teacher Training Courses and Programs | edX",
+          "url": "https://www.edx.org/learn/teacher-training"
+        },
+        {
+          "title": "HarvardX: Higher Education Teaching Certificate | edX",
+          "url": "https://www.edx.org/executive-education/harvard-university-higher-education-teaching-certificate"
+        }
+      ]
+    },
+    {
+      "website_name": "Udemy",
+      "website_url": "https://www.udemy.com/",
+      "topic": "Teacher",
+      "modules": [],
+      "courses": [
+        {
+          "title": "Top Teacher Training Courses Online",
+          "url": "https://www.udemy.com/topic/teacher-training/?srsltid=AfmBOoqNp6jqMiEPu-OQgR89_H2tGat9MtCb5XNifpvK2XvKTStmWpNS"
+        },
+        {
+          "title": "Best Teacher Training Online Courses",
+          "url": "https://www.udemy.com/courses/teaching-and-academics/teacher-training/?p=25&srsltid=AfmBOorrdB9igKoHZLGOke1lsmOxFMEpv1b8cBYUIsm1dTkIqCj-3ATd"
+        }
+      ]
+    }
+  ]
+}

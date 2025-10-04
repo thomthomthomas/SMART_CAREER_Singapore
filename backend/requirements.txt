@@ -1,0 +1,45 @@
+# Core web
+Flask==3.1.1
+click==8.1.8                 # satisfies Flask (>=8.1.3) and gTTS (<8.2)
+flask-cors==6.0.0
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.1.3
+Jinja2==3.1.6
+itsdangerous==2.2.0
+MarkupSafe==3.0.2
+blinker==1.9.0
+
+# DB / typing
+SQLAlchemy==2.0.41
+greenlet==3.2.4
+typing_extensions==4.14.0
+
+# Agents
+strands-agents>=1.0.0
+strands-agents-tools>=0.2.0
+
+# HTTP & scraping
+requests==2.31.0
+urllib3>=2.0.0
+beautifulsoup4>=4.12.2
+aiohttp>=3.9.1
+
+# Google / GenAI
+google-generativeai>=0.4.0
+google-api-core>=2.11.0
+python-dateutil>=2.8.2
+tavily-python>=0.3.0
+
+# YouTube
+youtube-transcript-api>=0.6.2
+yt-dlp>=2023.12.30
+pytube>=15.0.0
+
+# Audio
+gTTS>=2.4.0                   # requires click < 8.2
+pydub>=0.25.1
+
+# Utilities
+colorlog>=6.7.0
+jsonschema>=4.17.0
+supadata

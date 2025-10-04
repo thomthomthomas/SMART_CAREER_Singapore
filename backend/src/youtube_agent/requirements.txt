@@ -1,0 +1,33 @@
+# YouTube Skills Scraper - Requirements
+# Updated for stability and compatibility
+
+# Core YouTube functionality
+youtube-transcript-api>=0.6.2
+yt-dlp>=2023.12.30
+pytube>=15.0.0
+
+# Google AI/ML
+google-generativeai>=0.4.0
+
+# Audio processing
+gTTS>=2.4.0
+pydub>=0.25.1
+
+# Web scraping and HTTP
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+aiohttp>=3.9.1
+
+# Data handling
+python-dateutil>=2.8.2
+
+# Optional: For better audio processing (uncomment if needed)
+# ffmpeg-python>=0.2.0
+
+# Optional: For environment variable support (recommended)
+# python-dotenv>=1.0.0
+supadata
+supadata
+
+
+#Supdata key spare - sd_edc2e9638c5750de6a42016402658d57
